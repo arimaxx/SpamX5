@@ -9,8 +9,8 @@
         "SpamX",
         "RiZoeLX"
     ],
-    "repository": "https://github.com/RiZoeLX/SpamX",
-    "website": "https://github.com/RiZoeLX",
+    "repository": "https://github.com/arimaxx/SpamX5",
+    "website": "https://github.com/arimaxx/SpamX5",
     "success_url": "https://t.me/RiZoeL_X",
     "env": {
         "API_ID": {
